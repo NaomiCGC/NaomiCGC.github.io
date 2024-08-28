@@ -22,7 +22,7 @@ repository               : "NaomiCGC/NaomiCGC.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Naomi E. Wagner, MS, CGC"
+  name             : "Naomi Wagner, MS, CGC"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Genetic Counselor (ophthalmology, hematology & rare disease)"
   location         : "San Diego, CA, USA"
@@ -55,7 +55,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "naomi_cgc" # Username
   lastfm           : # Username
   linkedin         : "naomi-wagner" # Username
   mastodon         : # URL
